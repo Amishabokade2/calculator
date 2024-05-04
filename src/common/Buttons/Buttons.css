@@ -1,0 +1,11 @@
+.cal-btn{
+    color: #2f3e46;
+    background-color: #cad2c5;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+    width: 50px;
+    border-radius: 50px;
+}
